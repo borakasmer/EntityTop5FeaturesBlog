@@ -1,0 +1,6 @@
+@Entity9Blog_HostAddress = http://localhost:5088
+
+GET {{Entity9Blog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
