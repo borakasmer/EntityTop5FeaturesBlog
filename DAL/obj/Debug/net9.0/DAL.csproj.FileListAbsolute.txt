@@ -1,0 +1,14 @@
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\bin\Debug\net9.0\DAL.deps.json
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\bin\Debug\net9.0\DAL.runtimeconfig.json
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\bin\Debug\net9.0\DAL.dll
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\bin\Debug\net9.0\DAL.pdb
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.dll
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\refint\DAL.dll
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.pdb
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\DAL.genruntimeconfig.cache
+C:\Users\borakasmer\source\repos\Entity9Blog\DAL\obj\Debug\net9.0\ref\DAL.dll
